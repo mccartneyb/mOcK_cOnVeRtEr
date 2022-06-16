@@ -1,5 +1,5 @@
 # mOcK_cOnVeRtEr
-Will convert a string into the sArCaStIc CaSe, as popular with the [Mocking Spongebob meme](https://knowyourmeme.com/memes/mocking-spongebob).
+Converts a string into the sArCaStIc CaSe, as popular with the [Mocking Spongebob meme](https://knowyourmeme.com/memes/mocking-spongebob).
 
 Run the file and type in a string to convert. The converted string is set to the clipboard to paste.
 
